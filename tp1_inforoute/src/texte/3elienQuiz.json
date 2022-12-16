@@ -1,0 +1,192 @@
+{
+   
+    "texte": [
+        {
+            "phrase": "Pourquoi on veut construire un nouveau pont?",
+            "imageListe": [
+                "Pourquoi",
+                "nouveau",
+                "pont"
+            ],
+            "reponse": [
+                {
+                    "phrase": " On veut construire un pont parce qu’il y a des problèmes de circulation.",
+                    "imageListe": [
+                        "probleme_de_circulation"
+                    ],
+                    "checkbox": "true" 
+                },
+                {
+                    "phrase": " On veut construire un pont parce que le pont est sale.",
+                    "imageListe": [
+                        "sale"
+                    ],
+                    "checkbox": "false" 
+                },
+                {
+                    "phrase": " On veut construire un pont parce que le pont est vieux.",
+                    "imageListe": [
+                        "vieux"
+                    ],
+                    "checkbox":"false"
+                },
+                {
+                    "phrase": " Le fleuve Saint-Laurent sépare Québec et Lévis.",
+                    "imageListe": [
+                        "fleuve"
+                    ],
+                    "checkbox":"false"
+                }
+            ]
+        },
+        {
+            "phrase": "Qui utilise le pont le matin et le soir?",
+            "imageListe": [
+                "Qui",
+                "pont",
+                "matin_et_soir"
+            ],
+            "reponse": [
+                {
+                    "phrase": " Les travailleurs utilisent les ponts entre Québec et Lévis.",
+                    "imageListe": [
+                        "travailleurs"
+                    ],
+                    "checkbox":"true"
+                },
+                {
+                    "phrase": " Les enfants utilisent les ponts entre Québec et Lévis.",
+                    "imageListe": [
+                        "enfants"
+                    ],
+                    "checkbox":"false"
+                },
+                {
+                    "phrase": " Les chiens utilisent les ponts entre Québec et Lévis.",
+                    "imageListe": [
+                        "chiens"
+                    ],
+                    "checkbox":"false"
+                },
+                {
+                    "phrase": " Des personnes veulent un petit pont.",
+                    "imageListe": [
+                        "petit"
+                    ],
+                    "checkbox":"false"
+                }
+            ]
+        },
+        {
+            "phrase": "Quand est-ce qu’il a des problèmes de circulation?",
+            "imageListe": [
+                "Quand",
+                "probleme_de_circulation"
+            ],
+            "reponse": [
+                {
+                    "phrase": "Les problèmes de circulation sont le matin et le soir.",
+                    "imageListe": [
+                        "matin_et_soir"
+                    ],
+                    "checkbox":"true"
+                },
+                {
+                    "phrase": "Les problèmes de circulation sont en été. ",
+                    "imageListe": [
+                        "ete"
+                    ],
+                    "checkbox":"false"
+                },
+                {
+                    "phrase": "Les problèmes de circulation sont le samedi.",
+                    "imageListe": [
+                        "Samedi"
+                    ],
+                    "checkbox":"false"
+                },
+                {
+                    "phrase": "Des personnes veulent un pont tunnel qui passe sous l’eau.",
+                    "imageListe": [
+                        "tunnel"
+                    ],
+                    "checkbox":"false"
+                }
+            ]
+        },
+        {
+            "phrase": "Où est la ville de Lévis? ",
+            "imageListe": [
+                "ou",
+                "ville"
+            ],
+            "reponse": [
+                {
+                    "phrase": " La ville de Lévis est près de la ville de Québec.",
+                    "imageListe": [
+                        "proche"
+                    ],
+                    "checkbox":"true"
+                },
+                {
+                    "phrase": " La ville de Lévis est dans le fleuve Saint-Laurent.",
+                    "imageListe": [
+                        "fleuve"
+                    ],
+                    "checkbox":"false"
+                },
+                {
+                    "phrase": " La ville de Lévis est dans la forêt.",
+                    "imageListe": [
+                        "for・"
+                    ],
+                    "checkbox":"false"
+                },
+                {
+                    "phrase": " Les travailleurs traversent le pont en voiture.",
+                    "imageListe": [
+                        "travailleurs"
+                    ],
+                    "checkbox":"false"
+                }
+            ]
+        },
+        {
+            "phrase": "Combien y a-t-il de ponts pour traverser de Lévis à Québec?",
+            "imageListe": [
+                "combien",
+                "pont"
+            ],
+            "reponse": [
+                {
+                    "phrase": " Il y a 2 ponts pour traverser de Lévis à Québec.",
+                    "imageListe": [
+                        "deux"
+                    ],
+                    "checkbox":"true"
+                },
+                {
+                    "phrase": " Il n’y a pas de pont pour traverser de Lévis à Québec.",
+                    "imageListe": [
+                        "pas_de_nouveau_pont"
+                    ],
+                    "checkbox":"false"
+                },
+                {
+                    "phrase": " Il y a trop de ponts pour traverser de Lévis à Québec.",
+                    "imageListe": [
+                        "beaucoup"
+                    ],
+                    "checkbox":"false"
+                },
+                {
+                    "phrase": " Lévis est proche de Québec.",
+                    "imageListe": [
+                        "proche"
+                    ],
+                    "checkbox":"false"
+                }
+            ]
+        }
+    ]
+}

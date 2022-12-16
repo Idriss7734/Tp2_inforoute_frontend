@@ -1,0 +1,118 @@
+{
+    "titre": "Le troisième lien entre Québec et Lévis.",
+    "image": [
+        "essence",
+        "voiture"
+    ],
+    "texte": [
+        {
+            "phrase": "Québec et Lévis sont deux villes.",
+            "imageListe": [
+                "deux"
+            ]
+        },
+        {
+            "phrase": "Elles sont très proches.",
+            "imageListe": [
+                "proche"
+            ]
+        },
+        {
+            "phrase": "Le fleuve Saint-Laurent sépare Québec et Lévis.",
+            "imageListe": [
+                "fleuve",
+                "separe"
+            ]
+        },
+        {
+            "phrase": "Il y a 2 ponts pour se rendre à Québec ou à Lévis.",
+            "imageListe": [
+                "deux",
+                "pont"
+            ]
+        },
+        {
+            "phrase": "Beaucoup de travailleurs traversent le pont le matin et le soir.",
+            "imageListe": [
+                "beaucoup",
+                "travailleurs",
+                "traverser",
+                "pont",
+                "matin_et_soir"
+            ]
+        },
+        {
+            "phrase": "Les travailleurs traversent le pont en voiture.",
+            "imageListe": [
+                "travailleurs",
+                "traverser",
+                "pont",
+                "voiture"
+            ]
+        },
+        {
+            "phrase": "Le matin et le soir, il y a des problèmes de circulation.",
+            "imageListe": [
+                "matin_et_soir",
+                "probleme_de_circulation"
+            ]
+        },
+        {
+            "phrase": "Il y a beaucoup de voiture qui traversent à Québec et à Lévis.",
+            "imageListe": [
+                "beaucoup",
+                "voiture",
+                "traverser"
+            ]
+        },
+        {
+            "phrase": "Beaucoup de personnes aimeraient avoir 3 ponts entre les 2 villes.",
+            "imageListe": [
+                "beaucoup",
+                "personnes",
+                "troisieme",
+                "pont"
+            ]
+        },
+        {
+            "phrase": "Des personnes veulent un gros pont.",
+            "imageListe": [
+                "personnes",
+                "gros",
+                "pont"
+            ]
+        },
+        {
+            "phrase": "Des personnes veulent un petit pont.",
+            "imageListe": [
+                "personnes",
+                "petit",
+                "pont"
+            ]
+        },
+        {
+            "phrase": "Des personnes veulent un pont-tunnel qui passe sous l’eau.",
+            "imageListe": [
+                "personnes",
+                "pont",
+                "tunnel"
+            ]
+        },
+        {
+            "phrase": "Des personnes ne veulent pas de nouveau pont.",
+            "imageListe": [
+                "personnes",
+                "pas_de_nouveau_pont"
+            ]
+        },
+        {
+            "phrase": "Quand ce sera décidé, il y a aura peut-être un nouveau pont.",
+            "imageListe": [
+                "decider",
+                "peut_etre",
+                "nouveau",
+                "pont"
+            ]
+        }
+    ]
+}

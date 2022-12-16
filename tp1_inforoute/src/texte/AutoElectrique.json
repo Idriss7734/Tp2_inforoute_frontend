@@ -1,0 +1,146 @@
+{
+    "titre": "La voiture à essence et la voiture électrique",
+    "image": [
+        "essence",
+        "voiture"
+    ],
+    "texte": [
+        {
+            "phrase": "Au Québec, il y a beaucoup de voitures.",
+            "imageListe": [
+                "beaucoup",
+                "quebec",
+                "voiture"
+            ]
+        },
+        {
+            "phrase": "Il y a des voitures à essence et des voitures électriques.",
+            "imageListe": [
+                "essence",
+                "voiture_electrique"
+            ]
+        },
+        {
+            "phrase": "La plupart des voitures avancent avec de l’essence.",
+            "imageListe": [
+                "la_plupart",
+                "voiture",
+                "essence"
+            ]
+        },
+        {
+            "phrase": "L’essence coûte cher.",
+            "imageListe": [
+                "essence",
+                "cher"
+            ]
+        },
+        {
+            "phrase": "L’essence est difficile à trouver.",
+            "imageListe": [
+                "essence",
+                "trouver"
+            ]
+        },
+        {
+            "phrase": "Pour trouver de l’essence, il faut détruire beaucoup l’environnement.",
+            "imageListe": [
+                "trouver",
+                "essence",
+                "detruire",
+                "environnement"
+            ]
+        },
+        {
+            "phrase": "Pour mettre de l’essence, il faut aller à la station-service.",
+            "imageListe": [
+                "essence",
+                "station_service"
+            ]
+        },
+        {
+            "phrase": "Il faut mettre de l’essence dans la voiture toutes les semaines.",
+            "imageListe": [
+                "essence",
+                "voiture",
+                "semaine"
+            ]
+        },
+        {
+            "phrase": "Quelques voitures avancent avec de l’électricité",
+            "imageListe": [
+                "voiture",
+                "electricite"
+            ]
+        },
+        {
+            "phrase": "L’automobile électrique a une batterie spéciale.",
+            "imageListe": [
+                "voiture_electrique",
+                "batterie"
+            ]
+        },
+        {
+            "phrase": "La batterie spéciale fonctionne avec l’électricité.",
+            "imageListe": [
+                "batterie",
+                "electricite"
+            ]
+        },
+        {
+            "phrase": "Produire de l’électricité au Québec ne détruit pas beaucoup l’environnement.",
+            "imageListe": [
+                "electricite",
+                "quebec",
+                "ne_detruit_pas",
+                "environnement"
+            ]
+        },
+        {
+            "phrase": "C’est la même électricité que celle des lumières de la maison.",
+            "imageListe": [
+                "pareil",
+                "electricite",
+                "lumiere",
+                "maison"
+            ]
+        },
+        {
+            "phrase": "Il faut recharger la voiture électrique tous les jours.",
+            "imageListe": [
+                "recharger",
+                "voiture_electrique",
+                "tous_les_jours"
+            ]
+        },
+        {
+            "phrase": "Tu peux recharger une automobile électrique à la maison.",
+            "imageListe": [
+                "voiture_electrique",
+                "recharger"
+            ]
+        },
+        {
+            "phrase": "Tu peux aussi recharger une automobile électrique à une borne électrique.",
+            "imageListe": [
+                "voiture_electrique",
+                "borne_de_rechange"
+            ]
+        },
+        {
+            "phrase": "Les stationnements de restaurant ont parfois des bornes électriques.",
+            "imageListe": [
+                "stationnement",
+                "restaurant_2",
+                "borne_de_rechange"
+            ]
+        },
+        {
+            "phrase": "Vois-tu parfois des automobiles électriques?",
+            "imageListe": [
+                "voir",
+                "voiture_electrique"
+            ]
+        }
+    ]
+}

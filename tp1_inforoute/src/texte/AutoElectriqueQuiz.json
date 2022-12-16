@@ -1,0 +1,193 @@
+{
+    "titre": "Quiz",
+    "image": [],
+    "texte": [
+        {
+            "phrase": "Qu’est-ce qui détruit beaucoup l’environnement?",
+            "imageListe": [
+                "qu_est_ce_que",
+                "detruire",
+                "environnement"
+            ],
+            "reponse": [
+                {
+                    "phrase": " L’essence détruit beaucoup l’environnement.",
+                    "imageListe": [
+                        "essence"
+                    ],
+                    "checkbox": "true"
+                },
+                {
+                    "phrase": " L’électricité détruit beaucoup l’environnement.",
+                    "imageListe": [
+                        "electricite"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": " Le Québec détruit beaucoup l’environnement",
+                    "imageListe": [
+                        "quebec"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": "L’essence coûte cher.",
+                    "imageListe": [
+                        "cher"
+                    ],
+                    "checkbox": "false"
+                }
+            ]
+        },
+        {
+            "phrase": "Pourquoi irais-tu à la station-service? ",
+            "imageListe": [
+                "Pourquoi",
+                "station_service"
+            ],
+            "reponse": [
+                {
+                    "phrase": "Je vais à la station-service pour mettre de l’essence. ",
+                    "imageListe": [
+                        "essence"
+                    ],
+                    "checkbox": "true"
+                },
+                {
+                    "phrase": "Je vais à la station-service pour mettre de l’électricité.",
+                    "imageListe": [
+                        "electricite"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": " Je vais à la station-service pour l’environnement.",
+                    "imageListe": [
+                        "environnement"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": " La batterie spéciale fonctionne avec l’électricité. ",
+                    "imageListe": [
+                        "batterie"
+                    ],
+                    "checkbox": "false"
+                }
+            ]
+        },
+        {
+            "phrase": "Quand doit-on recharger une voiture électrique?",
+            "imageListe": [
+                "Quand",
+                "recharger"
+            ],
+            "reponse": [
+                {
+                    "phrase": " Je dois recharger une voiture électrique tous les jours.",
+                    "imageListe": [
+                        "tous_les_jours"
+                    ],
+                    "checkbox": "true"
+                },
+                {
+                    "phrase": " Je dois recharger une voiture électrique toutes les semaines.",
+                    "imageListe": [
+                        "semaine"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": " Je dois recharger une voiture électrique l’hiver.",
+                    "imageListe": [
+                        "hiver"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": " Au Québec, il y a beaucoup de voitures.",
+                    "imageListe": [
+                        "quebec"
+                    ],
+                    "checkbox": "false"
+                }
+            ]
+        },
+        {
+            "phrase": "Quand doit-on mettre de l’essence dans une voiture à essence?",
+            "imageListe": [
+                "Quand",
+                "essence",
+                "voiture_a_essence"
+            ],
+            "reponse": [
+                {
+                    "phrase": " Je dois mettre de l’essence dans une voiture à essence tous les jours.",
+                    "imageListe": [
+                        "tous_les_jours"
+                    ],
+                    "checkbox": "true"
+                },
+                {
+                    "phrase": " Je dois mettre de l’essence dans une voiture à essence toutes les semaines.",
+                    "imageListe": [
+                        "semaine"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": " Je dois mettre de l’essence dans une voiture à essence l’hiver.",
+                    "imageListe": [
+                        "hiver"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": " Je peux recharger une automobile électrique à la maison.  ",
+                    "imageListe": [
+                        "maison"
+                    ],
+                    "checkbox": "false"
+                }
+            ]
+        },
+        {
+            "phrase": "Où se trouve les bornes électriques?",
+            "imageListe": [
+                "maison_ou_restaurant",
+                "borne_de_rechange"
+            ],
+            "reponse": [
+                {
+                    "phrase": "Les bornes électriques se trouvent à la maison ou au restaurant.",
+                    "imageListe": [
+                        "maison_ou_restaurant"
+                    ],
+                    "checkbox": "true"
+                },
+                {
+                    "phrase": "Les bornes électriques se trouvent à la maison ou au restaurant.",
+                    "imageListe": [
+                        "station_service"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": "Les bornes électriques se trouvent dans l’environnement.",
+                    "imageListe": [
+                        "environnement"
+                    ],
+                    "checkbox": "false"
+                },
+                {
+                    "phrase": "L’essence est difficile à trouver.",
+                    "imageListe": [
+                        "trouver"
+                    ],
+                    "checkbox": "false"
+                }
+            ]
+        }
+    ]
+}
